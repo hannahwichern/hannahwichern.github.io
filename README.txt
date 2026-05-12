@@ -1,4 +1,4 @@
-Welcome to my personal webpage. Here you can find out more about my research in astronomy.
+Welcome to my personal webpage. Here you can find out more about my research in astronomy: https://hannahwichern.github.io/
 
 The webpage was made using the following template:
 
